@@ -8,3 +8,14 @@
 - clone repo
 - import library
 - select repo
+
+### Includes
+- Colors
+	+ Status
+	+ System
+	+ Work item
+	+ Text
+	+ Icon
+
+### Preview
+![Preview](img/preview.png)
