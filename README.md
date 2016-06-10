@@ -1,4 +1,4 @@
-# VSTS Craft Library Styles for Sketch
+# VSTS Craft Library Styles
 
 ### Prerequisites
 - [Sketch](https://www.sketchapp.com/) v3.8.1
