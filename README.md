@@ -1,21 +1,23 @@
 # VSTS Craft Library Styles for Sketch
 
 ### Prerequisites
-- Sketch 3.8.1
-- Craft 1.3.0
+- [Sketch](https://www.sketchapp.com/) v3.8.1
+- [Craft by InVision](https://www.invisionapp.com/craft) v1.3.0
 
-### Use
+### Installing
 - clone repo
 - import library
 - select repo
 
-### Includes
+### Styles
 - Colors
-	+ Status
-	+ System
-	+ Work item
-	+ Text
-	+ Icon
+	- Status
+	- System
+	- Work item
+	- Text
+	- Icon
+- Text
+	- Coming soon...
 
 ### Preview
 ![Preview](img/preview.png)
